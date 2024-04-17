@@ -34,7 +34,11 @@ Feel free to reach out to me through the following channels:
 
 📧 Email: [joaofranzoni0@gmail.com]
 🔗 LinkedIn: [https://www.linkedin.com/in/joão-franzoni/] 
+<hr>
+
 ![](https://komarev.com/ghpvc/?username=jvJUCA)
+
+<hr>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jvJUCA&show=reviews,discussions_started,prs_merged,prs_merged_percentage&theme=ambient_gradient&show_icons=true)
