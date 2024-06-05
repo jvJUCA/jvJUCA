@@ -41,5 +41,5 @@ Feel free to reach out to me through the following channels:
 <hr>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jvJUCA&show=reviews,discussions_started,prs_merged,prs_merged_percentage&theme=ambient_gradient&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jvJUCA&show=reviews,prs_merged_percentage&theme=ambient_gradient&show_icons=true)
 
