@@ -28,7 +28,7 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jvJUCA&show_icons=true&card_width=390&bg_color=45,9d50bb,00d2ff&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jvJUCA&show_icons=true&card_width=370&bg_color=45,9d50bb,00d2ff&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvJUCA&show_icons=true&layout=compact&langs_count=8&card_width=400&bg_color=45,9d50bb,00d2ff&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
