@@ -1,5 +1,3 @@
-🌟 Full-Stack Developer with 2+ 𝐲𝐞𝐚𝐫𝐬 of experience in Software Development (Back-End & Front-End)
-
 🏆 I'm the main contributor to a project of the Google Summer of Code 24 Scholarship Winner!
 
 💻 Hi there! I’m a seasoned full-stack developer with strong expertise in:
