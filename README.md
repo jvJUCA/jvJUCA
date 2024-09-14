@@ -7,6 +7,6 @@
 <hr>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jvJUCA&theme=great-gatsby&show_icons=true)
-![](./profile-3d-contrib/profile-night-green.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jvJUCA&theme=ambient_gradient&show_icons=true)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
