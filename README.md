@@ -2,6 +2,7 @@
 🔗 LinkedIn: [https://www.linkedin.com/in/joão-franzoni/] 
 <hr>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 ![](https://komarev.com/ghpvc/?username=jvJUCA)
 
 <hr>
